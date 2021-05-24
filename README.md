@@ -1,4 +1,4 @@
-# python-demo
+# python-function
 *一些小想法的python程序实现*
 ### map
 * 在图片中，使用两个已知点的经纬度来计算其他点的经纬度
