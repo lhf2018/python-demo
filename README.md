@@ -5,3 +5,5 @@
 * 图片中的所有点通过点击选取 
 ### windows2linux
 * 将windows本地文件上传至远端Linux服务器目标文件夹
+### threebody
+* 在二维平面模拟了一个三体运动
